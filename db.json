@@ -1,1 +1,512 @@
-{"nhits": 1395, "parameters": {"dataset": "velib-disponibilite-en-temps-reel", "timezone": "UTC", "rows": 10, "format": "json"}, "records": [{"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "096f29e6d9ccb99873fe274e57282d8e3239e087", "fields": {"nbfreeedock": 33, "station_state": "Operative", "maxbikeoverflow": 0, "creditcard": "no", "station_type": "yes", "overflowactivation": "no", "station_code": "16107", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-07-15", "densitylevel": "1", "nbedock": 35, "station": "{\"code\": \"16107\", \"name\": \"Benjamin Godard - Victor Hugo\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1531632033, \"gps\": {\"latitude\": 48.865983, \"longitude\": 2.275725}}", "nbfreedock": 0, "nbbike": 1, "station_name": "Benjamin Godard - Victor Hugo", "nbdock": 0, "geo": [48.865983, 2.275725], "nbebike": 1, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.275725, 48.865983]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "a610606526a46cfb3ecd61191172c1df9040ca7b", "fields": {"nbfreeedock": 38, "station_state": "Operative", "maxbikeoverflow": 55, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "6015", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-04-05", "densitylevel": "1", "nbedock": 52, "station": "{\"code\": \"6015\", \"name\": \"Andr\u00e9 Mazet - Saint-Andr\u00e9 des Arts\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1522965646, \"gps\": {\"latitude\": 48.85375581057431, \"longitude\": 2.3390958085656166}}", "nbfreedock": 3, "nbbike": 9, "station_name": "Andr\u00e9 Mazet - Saint-Andr\u00e9 des Arts", "nbdock": 3, "geo": [48.85375581057431, 2.3390958085656166], "nbebike": 5, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.3390958085656166, 48.85375581057431]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "186d364dab22c427b0830e2504ca4de8f3593826", "fields": {"nbfreeedock": 18, "station_state": "Operative", "maxbikeoverflow": 0, "creditcard": "no", "station_type": "yes", "overflowactivation": "no", "station_code": "11104", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2020-01-28", "densitylevel": "1", "nbedock": 20, "station": "{\"code\": \"11104\", \"name\": \"Charonne - Robert et Sonia Delauney\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1580252429, \"gps\": {\"latitude\": 48.85590755596891, \"longitude\": 2.3925706744194035}}", "nbfreedock": 0, "nbbike": 2, "station_name": "Charonne - Robert et Sonia Delauney", "nbdock": 0, "geo": [48.85590755596891, 2.3925706744194035], "nbebike": 0, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.3925706744194035, 48.85590755596891]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "4aa726fadbe30fe08a0f2e0b109be6fe669c853e", "fields": {"nbfreeedock": 19, "station_state": "Operative", "maxbikeoverflow": 21, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "9020", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-11-30", "densitylevel": "1", "nbedock": 21, "station": "{\"code\": \"9020\", \"name\": \"Toudouze - Clauzel\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1543615140, \"gps\": {\"latitude\": 48.87929591733507, \"longitude\": 2.3373600840568547}}", "nbfreedock": 0, "nbbike": 1, "station_name": "Toudouze - Clauzel", "nbdock": 0, "geo": [48.87929591733507, 2.3373600840568547], "nbebike": 1, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.3373600840568547, 48.87929591733507]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "5679c81c634d39dc2f4280b16a630b5922c529df", "fields": {"nbfreeedock": 27, "station_state": "Operative", "maxbikeoverflow": 30, "creditcard": "no", "station_type": "yes", "overflowactivation": "no", "station_code": "12109", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2019-03-28", "densitylevel": "1", "nbedock": 30, "station": "{\"code\": \"12109\", \"name\": \"Mairie du 12\u00e8me\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1553814028, \"gps\": {\"latitude\": 48.84085531176338, \"longitude\": 2.3875549435615544}}", "nbfreedock": 0, "nbbike": 1, "station_name": "Mairie du 12\u00e8me", "nbdock": 0, "geo": [48.84085531176338, 2.3875549435615544], "nbebike": 2, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.3875549435615544, 48.84085531176338]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "732d33fbf48181e7656765a98ee65b91a402b824", "fields": {"nbfreeedock": 6, "station_state": "Operative", "maxbikeoverflow": 45, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "5001", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2020-03-22", "densitylevel": "1", "nbedock": 6, "station": "{\"code\": \"5001\", \"name\": \"Harpe - Saint-Germain\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1584914400, \"gps\": {\"latitude\": 48.85151881501689, \"longitude\": 2.343670316040516}}", "nbfreedock": 32, "nbbike": 3, "station_name": "Harpe - Saint-Germain", "nbdock": 39, "geo": [48.85151881501689, 2.343670316040516], "nbebike": 4, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.343670316040516, 48.85151881501689]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "c8845de24019713d8a179482b35fd51423ccf773", "fields": {"nbfreeedock": 56, "station_state": "Operative", "maxbikeoverflow": 60, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "14014", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2019-04-28", "densitylevel": "1", "nbedock": 60, "station": "{\"code\": \"14014\", \"name\": \"Jourdan - Stade Charl\u00e9ty\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1556488800, \"gps\": {\"latitude\": 48.81942833336948, \"longitude\": 2.343335375189781}}", "nbfreedock": 0, "nbbike": 2, "station_name": "Jourdan - Stade Charl\u00e9ty", "nbdock": 0, "geo": [48.81942833336948, 2.343335375189781], "nbebike": 2, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.343335375189781, 48.81942833336948]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "ddf78338efa68967da644f3a9f0c64fa4ff5e21c", "fields": {"nbfreeedock": 0, "station_state": "Operative", "maxbikeoverflow": 41, "creditcard": "yes", "station_type": "no", "overflowactivation": "no", "station_code": "17026", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-02-28", "densitylevel": "1", "nbedock": 0, "station": "{\"code\": \"17026\", \"name\": \"Jouffroy d'Abbans - Wagram\", \"state\": \"Operative\", \"type\": \"no\", \"dueDate\": 1519858800, \"gps\": {\"latitude\": 48.881973298351625, \"longitude\": 2.301132157444954}}", "nbfreedock": 34, "nbbike": 3, "station_name": "Jouffroy d'Abbans - Wagram", "nbdock": 40, "geo": [48.881973298351625, 2.301132157444954], "nbebike": 2, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.301132157444954, 48.881973298351625]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "07abbcc1bb9c1a8136ae54b99dd32ad77743b00d", "fields": {"nbfreeedock": 27, "station_state": "Operative", "maxbikeoverflow": 39, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "17041", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-03-30", "densitylevel": "1", "nbedock": 38, "station": "{\"code\": \"17041\", \"name\": \"Guersant - Gouvion-Saint-Cyr\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1522447200, \"gps\": {\"latitude\": 48.88287775178599, \"longitude\": 2.287667370814871}}", "nbfreedock": 1, "nbbike": 9, "station_name": "Guersant - Gouvion-Saint-Cyr", "nbdock": 1, "geo": [48.88287775178599, 2.287667370814871], "nbebike": 1, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.287667370814871, 48.88287775178599]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}, {"datasetid": "velib-disponibilite-en-temps-reel", "recordid": "b4a56a38a71713e2e31505d9db2c88f8fd45c94a", "fields": {"nbfreeedock": 56, "station_state": "Operative", "maxbikeoverflow": 60, "creditcard": "yes", "station_type": "yes", "overflowactivation": "no", "station_code": "10013", "overflow": "no", "nbbikeoverflow": 0, "duedate": "2018-12-30", "densitylevel": "1", "nbedock": 59, "station": "{\"code\": \"10013\", \"name\": \"Alibert - Jemmapes\", \"state\": \"Operative\", \"type\": \"yes\", \"dueDate\": 1546210841, \"gps\": {\"latitude\": 48.8710440519842, \"longitude\": 2.366104461987773}}", "nbfreedock": 1, "nbbike": 1, "station_name": "Alibert - Jemmapes", "nbdock": 1, "geo": [48.8710440519842, 2.366104461987773], "nbebike": 2, "kioskstate": "yes", "nbebikeoverflow": 0}, "geometry": {"type": "Point", "coordinates": [2.366104461987773, 48.8710440519842]}, "record_timestamp": "2020-01-29T11:00:04.721000+00:00"}]}
+{
+  "nhits": 35,
+  "parameters": {
+    "dataset": "velib-disponibilite-en-temps-reel",
+    "timezone": "UTC",
+    "rows": 10,
+    "start": 0,
+    "format": "json",
+    "geofilter.distance": [" 48.8375258391, 2.33603540808 , 1000"],
+    "lang": "FR",
+    "facet": [
+      "name",
+      "is_installed",
+      "is_renting",
+      "is_returning",
+      "nom_arrondissement_communes"
+    ]
+  },
+  "records": [
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "9192f2e6358af80fbbe5a93b41417b727a7969b6",
+      "fields": {
+        "ebike": 1,
+        "capacity": 25,
+        "name": "Cassini - Denfert-Rochereau",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 2,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 1,
+        "stationcode": "14111",
+        "dist": "0.0",
+        "coordonnees_geo": [48.8375258391, 2.33603540808],
+        "numdocksavailable": 22,
+        "duedate": "2021-09-21T12:52:31+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33603540808, 48.8375258391]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "88877b867f080a365ab313399c169885f6706cbc",
+      "fields": {
+        "ebike": 1,
+        "capacity": 16,
+        "name": "M\u00e9chain - Faubourg Saint-Jacques",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 4,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 3,
+        "stationcode": "14112",
+        "dist": "232.931494385",
+        "coordonnees_geo": [48.835867721, 2.33798034198],
+        "numdocksavailable": 12,
+        "duedate": "2021-09-21T12:53:30+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33798034198, 48.835867721]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "c6096d0c68d43679107b694af8de759e8aa05e26",
+      "fields": {
+        "ebike": 2,
+        "capacity": 30,
+        "name": "Georges Bernanos - Port Royal",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 3,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 1,
+        "stationcode": "5029",
+        "dist": "306.906714639",
+        "coordonnees_geo": [48.8401452135, 2.33735740185],
+        "numdocksavailable": 27,
+        "duedate": "2021-09-21T12:52:52+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33735740185, 48.8401452135]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "fd8efdb5b1a8c6a90df3e2d08f27dbbaef3c8716",
+      "fields": {
+        "ebike": 2,
+        "capacity": 23,
+        "name": "Port Royal - H\u00f4pital Cochin",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 2,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 0,
+        "stationcode": "14004",
+        "dist": "355.41534159",
+        "coordonnees_geo": [48.8383732338, 2.34071787447],
+        "numdocksavailable": 19,
+        "duedate": "2021-09-21T12:52:40+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.34071787447, 48.8383732338]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "6e5be1beceaa2652dde34765389e2faa22a4c070",
+      "fields": {
+        "ebike": 2,
+        "capacity": 50,
+        "name": "Schoelcher - Raspail",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 4,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 2,
+        "stationcode": "14003",
+        "dist": "356.89455471",
+        "coordonnees_geo": [48.8368173353, 2.33127940804],
+        "numdocksavailable": 46,
+        "duedate": "2021-09-21T12:53:01+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33127940804, 48.8368173353]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "7799fa1afe19572ae759ce6389923a81768401c6",
+      "fields": {
+        "ebike": 1,
+        "capacity": 24,
+        "name": "Saint-Jacques - Tombe Issoire",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 1,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 0,
+        "stationcode": "14006",
+        "dist": "484.566104291",
+        "coordonnees_geo": [48.8332063305, 2.33691081405],
+        "numdocksavailable": 23,
+        "duedate": "2021-09-21T12:50:01+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33691081405, 48.8332063305]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "de954ddc73f845d7d302d76d22a83d05c1445341",
+      "fields": {
+        "ebike": 0,
+        "capacity": 38,
+        "name": "Sant\u00e9 - Arago",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 0,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 0,
+        "stationcode": "14113",
+        "dist": "488.342456267",
+        "coordonnees_geo": [48.8350765756, 2.3415737262],
+        "numdocksavailable": 38,
+        "duedate": "2021-09-21T12:54:28+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3415737262, 48.8350765756]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "61c91e18b87db5784efdbe99827b1ce0de06f52c",
+      "fields": {
+        "ebike": 3,
+        "capacity": 46,
+        "name": "Edgar Quinet - Raspail",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 5,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 2,
+        "stationcode": "14002",
+        "dist": "507.483474746",
+        "coordonnees_geo": [48.8394026667, 2.32971478254],
+        "numdocksavailable": 41,
+        "duedate": "2021-09-21T12:52:52+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32971478254, 48.8394026667]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "6612cb2b5b9b5fd6b4c4a24b79a20375526b80d7",
+      "fields": {
+        "ebike": 4,
+        "capacity": 36,
+        "name": "Ren\u00e9 Coty - Place Denfert-Rochereau",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 4,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 0,
+        "stationcode": "14005",
+        "dist": "546.14439079",
+        "coordonnees_geo": [48.8330564773, 2.3329411447],
+        "numdocksavailable": 30,
+        "duedate": "2021-09-21T12:51:45+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3329411447, 48.8330564773]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    },
+    {
+      "datasetid": "velib-disponibilite-en-temps-reel",
+      "recordid": "eea4c12e40a692f76011f7115d743c490fce632d",
+      "fields": {
+        "ebike": 1,
+        "capacity": 35,
+        "name": "Froidevaux - Boulard",
+        "nom_arrondissement_communes": "Paris",
+        "numbikesavailable": 4,
+        "is_installed": "OUI",
+        "is_renting": "OUI",
+        "mechanical": 3,
+        "stationcode": "14133",
+        "dist": "550.347587236",
+        "coordonnees_geo": [48.8351473196, 2.32944119722],
+        "numdocksavailable": 31,
+        "duedate": "2021-09-21T12:49:14+00:00",
+        "is_returning": "OUI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32944119722, 48.8351473196]
+      },
+      "record_timestamp": "2021-09-21T13:22:00.421000+00:00"
+    }
+  ],
+  "facet_groups": [
+    {
+      "facets": [
+        { "count": 35, "path": "OUI", "state": "displayed", "name": "OUI" }
+      ],
+      "name": "is_renting"
+    },
+    {
+      "facets": [
+        { "count": 35, "path": "Paris", "state": "displayed", "name": "Paris" }
+      ],
+      "name": "nom_arrondissement_communes"
+    },
+    {
+      "facets": [
+        { "count": 35, "path": "OUI", "state": "displayed", "name": "OUI" }
+      ],
+      "name": "is_installed"
+    },
+    {
+      "facets": [
+        {
+          "count": 1,
+          "path": "Arago - Glaci\u00e8re",
+          "state": "displayed",
+          "name": "Arago - Glaci\u00e8re"
+        },
+        {
+          "count": 1,
+          "path": "Assas - Luxembourg",
+          "state": "displayed",
+          "name": "Assas - Luxembourg"
+        },
+        {
+          "count": 1,
+          "path": "Auguste Blanqui - Glaci\u00e8re",
+          "state": "displayed",
+          "name": "Auguste Blanqui - Glaci\u00e8re"
+        },
+        {
+          "count": 1,
+          "path": "Boulard - Daguerre",
+          "state": "displayed",
+          "name": "Boulard - Daguerre"
+        },
+        {
+          "count": 1,
+          "path": "Br\u00e9a - Raspail",
+          "state": "displayed",
+          "name": "Br\u00e9a - Raspail"
+        },
+        {
+          "count": 1,
+          "path": "Cassini - Denfert-Rochereau",
+          "state": "displayed",
+          "name": "Cassini - Denfert-Rochereau"
+        },
+        {
+          "count": 1,
+          "path": "Chevreuse - Montparnasse",
+          "state": "displayed",
+          "name": "Chevreuse - Montparnasse"
+        },
+        {
+          "count": 1,
+          "path": "Claude Bernard - Arbal\u00e8te",
+          "state": "displayed",
+          "name": "Claude Bernard - Arbal\u00e8te"
+        },
+        {
+          "count": 1,
+          "path": "Cordeli\u00e8res - Arago",
+          "state": "displayed",
+          "name": "Cordeli\u00e8res - Arago"
+        },
+        {
+          "count": 1,
+          "path": "Dareau - Broussais",
+          "state": "displayed",
+          "name": "Dareau - Broussais"
+        },
+        {
+          "count": 1,
+          "path": "Edgar Quinet - Gait\u00e9",
+          "state": "displayed",
+          "name": "Edgar Quinet - Gait\u00e9"
+        },
+        {
+          "count": 1,
+          "path": "Edgar Quinet - Raspail",
+          "state": "displayed",
+          "name": "Edgar Quinet - Raspail"
+        },
+        {
+          "count": 1,
+          "path": "Erasme - Ulm",
+          "state": "displayed",
+          "name": "Erasme - Ulm"
+        },
+        {
+          "count": 1,
+          "path": "Ferrus - Saint-Jacques",
+          "state": "displayed",
+          "name": "Ferrus - Saint-Jacques"
+        },
+        {
+          "count": 1,
+          "path": "Froidevaux - Boulard",
+          "state": "displayed",
+          "name": "Froidevaux - Boulard"
+        },
+        {
+          "count": 1,
+          "path": "Gay Lussac - Saint-Jacques",
+          "state": "displayed",
+          "name": "Gay Lussac - Saint-Jacques"
+        },
+        {
+          "count": 1,
+          "path": "Georges Bernanos - Port Royal",
+          "state": "displayed",
+          "name": "Georges Bernanos - Port Royal"
+        },
+        {
+          "count": 1,
+          "path": "Herschel - Observatoire",
+          "state": "displayed",
+          "name": "Herschel - Observatoire"
+        },
+        {
+          "count": 1,
+          "path": "Maine - Jean Zay",
+          "state": "displayed",
+          "name": "Maine - Jean Zay"
+        },
+        {
+          "count": 1,
+          "path": "Maine - Liancourt",
+          "state": "displayed",
+          "name": "Maine - Liancourt"
+        },
+        {
+          "count": 1,
+          "path": "Mairie du 14\u00e8me",
+          "state": "displayed",
+          "name": "Mairie du 14\u00e8me"
+        },
+        {
+          "count": 1,
+          "path": "Michelet - Assas",
+          "state": "displayed",
+          "name": "Michelet - Assas"
+        },
+        {
+          "count": 1,
+          "path": "Montparnasse -  Square Ozanam",
+          "state": "displayed",
+          "name": "Montparnasse -  Square Ozanam"
+        },
+        {
+          "count": 1,
+          "path": "Mouton Duvernet - G\u00e9n\u00e9ral Leclerc",
+          "state": "displayed",
+          "name": "Mouton Duvernet - G\u00e9n\u00e9ral Leclerc"
+        },
+        {
+          "count": 1,
+          "path": "M\u00e9chain - Faubourg Saint-Jacques",
+          "state": "displayed",
+          "name": "M\u00e9chain - Faubourg Saint-Jacques"
+        },
+        {
+          "count": 1,
+          "path": "Notre-Dame-des-Champs - Stanislas",
+          "state": "displayed",
+          "name": "Notre-Dame-des-Champs - Stanislas"
+        },
+        {
+          "count": 1,
+          "path": "Port Royal - H\u00f4pital Cochin",
+          "state": "displayed",
+          "name": "Port Royal - H\u00f4pital Cochin"
+        },
+        {
+          "count": 1,
+          "path": "Port-Royal - H\u00f4pital du Val-de-Gr\u00e2ce",
+          "state": "displayed",
+          "name": "Port-Royal - H\u00f4pital du Val-de-Gr\u00e2ce"
+        },
+        {
+          "count": 1,
+          "path": "Ren\u00e9 Coty - Place Denfert-Rochereau",
+          "state": "displayed",
+          "name": "Ren\u00e9 Coty - Place Denfert-Rochereau"
+        },
+        {
+          "count": 1,
+          "path": "Saint-Jacques - Tombe Issoire",
+          "state": "displayed",
+          "name": "Saint-Jacques - Tombe Issoire"
+        },
+        {
+          "count": 1,
+          "path": "Saint-Jacques - Val de Gr\u00e2ce",
+          "state": "displayed",
+          "name": "Saint-Jacques - Val de Gr\u00e2ce"
+        },
+        {
+          "count": 1,
+          "path": "Saint-Michel - Luxembourg",
+          "state": "displayed",
+          "name": "Saint-Michel - Luxembourg"
+        },
+        {
+          "count": 1,
+          "path": "Sant\u00e9 - Arago",
+          "state": "displayed",
+          "name": "Sant\u00e9 - Arago"
+        },
+        {
+          "count": 1,
+          "path": "Schoelcher - Raspail",
+          "state": "displayed",
+          "name": "Schoelcher - Raspail"
+        },
+        {
+          "count": 1,
+          "path": "Tombe Issoire - Ren\u00e9 Coty",
+          "state": "displayed",
+          "name": "Tombe Issoire - Ren\u00e9 Coty"
+        }
+      ],
+      "name": "name"
+    },
+    {
+      "facets": [
+        { "count": 35, "path": "OUI", "state": "displayed", "name": "OUI" }
+      ],
+      "name": "is_returning"
+    }
+  ]
+}
